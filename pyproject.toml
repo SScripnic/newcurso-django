@@ -20,6 +20,7 @@ sentry-sdk = "*"
 django-ordered-model = "*"
 ipython = "*"
 django-extensions = "*"
+whitenoise = "^6.6.0"
 
 
 [tool.poetry.group.dev.dependencies]
