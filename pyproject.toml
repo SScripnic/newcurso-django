@@ -27,8 +27,8 @@ whitenoise = "^6.6.0"
 flake8 = "*"
 pytest-cov = "*"
 codecov = "*"
-pytest-django = "*"
 model-mommy = "*"
+pytest-django = "^4.7.0"
 
 [build-system]
 requires = ["poetry-core"]
